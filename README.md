@@ -1,24 +1,10 @@
 # README
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+Fun times with mongoid! Just a sandbox for me and my friends.
 
-Things you may want to cover:
 
-* Ruby version
+# Setup
 
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+* clone the repo
+* bundle
+* debug if errors, and then you should be fine. I think? idk. Let me know if not.
